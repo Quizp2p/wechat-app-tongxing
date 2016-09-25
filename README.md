@@ -2,7 +2,7 @@ sike.io x xitu.io 直播项目源代码
 
 ![](github-friends.jpg)
 
-主播微信号：hayeah666
+
 
 # 视频下载
 
@@ -23,10 +23,11 @@ sike.io x xitu.io 直播项目源代码
 
 视频回声比较大，由听众捉妖师录制并上传。前 6 分 20 秒跳过。
 
+# 讨论群
 
-# 开发界面介绍
+加主播微信号，拉你入群
 
-+ 流出来的文档 http://wxopen.notedown.cn/api/network-request.html
-+ 流出来的框架 https://github.com/gavinkwoe/weapp-ide-crack
+hayeah666
 
+![](hayeah666-qr.jpg)
 
